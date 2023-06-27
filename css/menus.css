@@ -119,15 +119,15 @@ h3 {
    
 }
 .entrees {
-    animation: appear 3s  forwards;
+    animation: appear 1s  forwards;
 } 
 
 .plats {
-    animation: appear 3s 3s both ;
+    animation: appear 1.5s both ;
 }
 
 .desserts {
-    animation: appear 3s 6s both;
+    animation: appear 2s  both;
 }
 
 @keyframes appear {
