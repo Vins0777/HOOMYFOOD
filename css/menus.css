@@ -161,6 +161,8 @@ p {
 
 .description_menu p {
     font-size: 13px;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .price_menu {
